@@ -5,9 +5,9 @@ async function handler(m) {
                     + 'N:;KingOfBear;;;'
                     + 'FN:KingOfBear\n' // full name
                     + 'ORG:Owner YukiBot;\n' // the organization of the contact
-                    + 'TEL;type=CELL;type=VOICE;waid=6288279268363:+6288279268363\n' // WhatsApp ID + phone number
+                    + 'TEL;type=CELL;type=VOICE;waid=60102810046:+60102810046\n' // WhatsApp ID + phone number
                     + 'END:VCARD'
-                conn.sendMessage(m.chat, { contacts: { displayName: 'King Of Bear', contacts: [{ vcard }] } }, { quoted: m })
+                conn.sendMessage(m.chat, { contacts: { displayName: 'Aiman', contacts: [{ vcard }] } }, { quoted: m })
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
