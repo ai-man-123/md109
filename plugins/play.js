@@ -47,7 +47,7 @@ ${vid.url}
            hydratedButtons: [{
              urlButton: {
                displayText: 'Source Code',
-               url: 'https://pastelink.net/v19Md',
+               url: 'https://github.com/ai-man-123',
              }
 
            },
