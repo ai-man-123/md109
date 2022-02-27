@@ -21,7 +21,6 @@ let tags = {
   'kerang': 'MENU KERANG',
   'anime': 'MENU ANIME',
   'downloader': 'DOWNLOADER',
-  'nsfw': 'MENU NSFW',
   'tools': 'MENU TOOLS',
   'advanced': 'ADVANCED',
   'quotes': 'MENU QUOTES',
