@@ -19,23 +19,23 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'https://pastelink.net/v20Md',
+  // 'https://website': 'https://s.id/yoaiman'
+  'https://api.xteam.xyz': '1005ef65a6159cea',
   'https://api.lolhuman.xyz': 'rey2k21',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://apikey-bear3.herokuapp.com': 'https://pastelink.net/v20Md',
+  'https://apikey-bear3.herokuapp.com': 'https://s.id/yoaiman',
   'https://viko-api.herokuapp.com': 'vinko',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
 lolkey = 'rey2k21'
 zekskey = 'apivinz'
-xteamkey = 'https://pastelink.net/v20Md'
+xteamkey = '1005ef65a6159cea'
 leyskey = 'dappakntlll'
-bearkey = 'https://pastelink.net/v20Md'
-ApiiKey = 'https://pastelink.net/v20Md'
+bearkey = 'https://s.id/yoaiman'
+ApiiKey = 'https://s.id/yoaiman'
 vinkey = 'vinko'
 
 namabot = 'AZ bot'
