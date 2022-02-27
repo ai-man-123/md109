@@ -47,8 +47,8 @@ const defaultMenu = {
 ┏━ꕥ
 ┃✾ Uptime: *%uptime (%muptime)*
 ┃✾ Database: %rtotalreg dari %totalreg
-┃✾ Youtube:
-┃✾ https://pastelink.net/v20Md
+┃✾ @Aiman
+┃✾ https://s.id/yoaiman
 ┗━━━━━━ꕥ
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
@@ -169,20 +169,20 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: 'source code',
-               url: `${ApiiKey}`
+               url: `https://github.com/ai-man-123`
              }
 
            },
              {
              callButton: {
                displayText: '𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛',
-               PhoneNumber: '6288279268363'
+               PhoneNumber: '60102810046'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁',
+               displayText: '𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁/ownee',
                id: '.owner',
              }
 
@@ -196,7 +196,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
            },
                {
              quickReplyButton: {
-               displayText: 'YukiBot 𝚝𝚎𝚊𝚖',
+               displayText: 'Bot 𝚝𝚎𝚊𝚖',
                id: '.tqto',
              }
            }]
